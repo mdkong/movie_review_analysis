@@ -9,12 +9,9 @@
 ## 2. 각각의 모델 성능을 ROC 커브를 계산하여 비교
 - ## mecab: area = 0.932
 - ## sentencepiece area = 0.878
-<!-- 
-[sentencepiece roc curve](https://github.com/mdkong/movie_review_analysis/issues/2#issue-1108825945)  
+
+|sentencepiece area = 0.878 |mecab: area = 0.932|
+| :------: | ------ |
+| ![sentencepiece roc curve](https://user-images.githubusercontent.com/77907363/150270067-43da8330-16ed-44a7-aeea-0401c05b19a6.png) | ![mecab roc curve](https://user-images.githubusercontent.com/77907363/150269986-d9e434cc-1b82-4db8-baa4-93fbbe334e18.png) |
 
 
-![sentencepiece roc curve](https://github.com/mdkong/movie_review_analysis/issues/2#issue-1108825945 “sentencepiece roc curve”)
-
-https://github.com/mdkong/movie_review_analysis/issues/2#issue-1108825945
-
-[![sentencepiece roc curve](https://github.com/mdkong/movie_review_analysis/issues/2#issue-1108825945)](https://unity3d.com/kr) -->
