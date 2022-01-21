@@ -16,6 +16,7 @@
 
 ## Demo 
 
-[영화리뷰 분석기 실행](https://mdkong.pythonanywhere.com/ "movie review classifier")
-Note. 
-형태소 분석 없이 ML model 학습 후 웹앱으로 구현한 것임
+[영화리뷰 분석기 체험해 보기](https://mdkong.pythonanywhere.com "movie review classifier")
+
+See also. 
+[Model Used](https://scikit-learn.org/stable/modules/generated/sklearn.feature_extraction.text.HashingVectorizer.html "HashingVectorizer")
