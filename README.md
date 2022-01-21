@@ -16,4 +16,6 @@
 
 ## Demo 
 
-[영화 리뷰 분석기](https://mdkong.pythonanywhere.com/ "movie review classifier")
+[영화리뷰 분석기 실행](https://mdkong.pythonanywhere.com/ "movie review classifier")
+Note. 
+형태소 분석 없이 ML model 학습 후 웹앱으로 구현한 것임
